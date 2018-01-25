@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "341800196929",
+    "firebase_url": "https://slametin-405af.firebaseio.com",
+    "project_id": "slametin-405af",
+    "storage_bucket": "slametin-405af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341800196929:android:0c0790a791c435ea",
+        "android_client_info": {
+          "package_name": "com.example.ade.slametinpolisiapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341800196929-g6r7pj5me1fspvvi2f11vq9knqgfqmgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ade.slametinpolisiapp1",
+            "certificate_hash": "8c1c43434027329d179c5299ac2317595b631fbe"
+          }
+        },
+        {
+          "client_id": "341800196929-m3o29tkqm9eha0dj4t3s6u0pghrp6e4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-D9Jjk4EG9kTn12jscuXVIalBZ3-lvqg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341800196929-m3o29tkqm9eha0dj4t3s6u0pghrp6e4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341800196929:android:a91f2cb07ee82c32",
+        "android_client_info": {
+          "package_name": "com.example.ade.slametinmasyarakatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341800196929-5jm0d448e24o2otpjgn0l11l95ltqf9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ade.slametinmasyarakatapp",
+            "certificate_hash": "8c1c43434027329d179c5299ac2317595b631fbe"
+          }
+        },
+        {
+          "client_id": "341800196929-m3o29tkqm9eha0dj4t3s6u0pghrp6e4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-D9Jjk4EG9kTn12jscuXVIalBZ3-lvqg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341800196929-m3o29tkqm9eha0dj4t3s6u0pghrp6e4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/maps"
+    android:id="@+id/rootLayout"
+    tools:context="com.example.ade.slametinmasyarakatapp.MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_horizontal"
+        android:id="@+id/linearLayout">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Slametin"
+            android:textSize="40sp"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:fontFamily="casual"
+            />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Aman,Akurat,Terpercaya"
+            android:textSize="20sp"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:fontFamily="casual"
+            />
+
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/txt_forgot_password"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Lupa Password ? Tekan Disini !"
+        android:textSize="12sp"
+        android:textAlignment="center"
+        android:textColor="#0468ff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:layout_above="@id/txt_forgot_password"
+        android:layout_margin="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout2">
+
+        <Button
+            android:id="@+id/btnSignIn"
+            android:textColor="#fff"
+            android:background="@drawable/btn_sign_in_background"
+            android:text="SIGN IN"
+            android:layout_marginRight="6dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/btnRegister"
+            android:textColor="@color/btnRegister"
+            android:background="@drawable/btn_register_background"
+            android:text="REGISTER"
+            android:layout_marginLeft="6dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</RelativeLayout>
