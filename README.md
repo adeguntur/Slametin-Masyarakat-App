@@ -5,6 +5,9 @@ dan didukung oleh Polrestabes Surabaya. Point Pembeda aplikasi slametin dengan a
 dalam bahaya kepada Handphone polisi,bukan mengirim sinyal kepada operator lalu operator mengirimkan anggota ke TKP. Serta pada aplikasi ini tersaji map yang 
 langsung menunjukan jalan polisi kepada lokasi korban meminta bantuan.
 
+# Download now on google play
+https://play.google.com/store/apps/details?id=com.masyarakat.slamtein.slametinmasyarakataplikasi
+
 # Tampilan Aplikasi Slametin Masyarakat App:
 ### Menu Utama
 <img src="https://user-images.githubusercontent.com/31888923/36827028-9f30ac70-1d43-11e8-9b94-e3266d7d6f06.png" width="256">
